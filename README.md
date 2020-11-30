@@ -8,4 +8,4 @@ Myself Tulasi Ram. People call me as Tulasi.
 - 💬 Ask me about Speech Recognition, On device Deep Learning.
 - 📫 Opensource contributions: tulasi.dev 
 
-[![Tulasi's github stats](https://github-readme-stats.vercel.app/api?username=tulasiram58827&count_private=true&show_icons=true&theme=dark)](https://github.com/tulasiram58827/github-readme-stats)
+[![Tulasi's github stats](https://github-readme-stats.vercel.app/api?username=tulasiram58827&count_private=true&show_icons=true&theme=cobalt)](https://github.com/tulasiram58827/github-readme-stats)
