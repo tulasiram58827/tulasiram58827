@@ -2,7 +2,7 @@
 
 Myself Tulasi Ram. People call me as Tulasi.
 
-- 🔭 I’m currently working at DDT(acquired by Motorola Solution) on Deep Learning especially using Graph Convolutions with Documents.
+- 🔭 I’m currently working at Amazon
 - 🌱 I’m currently learning tokenizers and Transfer Learning using pretrained Language Models.
 - 👯 I’m always open to collaborations.
 - 💬 Ask me about Speech Recognition, On device Deep Learning.
